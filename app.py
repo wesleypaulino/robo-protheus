@@ -13,9 +13,9 @@ pyautogui.click(983,667,duration=0.5)
 pyautogui.sleep(3)
 
 pyautogui.click(818,537,duration=0.5)
-pyautogui.write('wesley.crus')
+pyautogui.write('username')
 pyautogui.click(813,601,duration=0.5)
-pyautogui.write('admroot')
+pyautogui.write('password')
 pyautogui.click(1072,727,duration=0.5)
 pyautogui.sleep(1)
 
