@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\Users\\wesley.crus\\Downloads\\PACOTE_DE_CORRECAO_15720923_DMANMAT01-37419_12.1.33\\15720923_dmanmat01-37419_12_1_33_tttm120_hp.ptm",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	]
+}
