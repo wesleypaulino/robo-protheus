@@ -1,2 +1,0 @@
-42,151
-NA_Pillow_unsupported
